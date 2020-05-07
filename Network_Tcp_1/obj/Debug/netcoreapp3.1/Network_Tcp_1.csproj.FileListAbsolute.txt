@@ -1,0 +1,13 @@
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\bin\Debug\netcoreapp3.1\Network_Tcp_1.exe
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\bin\Debug\netcoreapp3.1\Network_Tcp_1.deps.json
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\bin\Debug\netcoreapp3.1\Network_Tcp_1.runtimeconfig.json
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\bin\Debug\netcoreapp3.1\Network_Tcp_1.runtimeconfig.dev.json
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\bin\Debug\netcoreapp3.1\Network_Tcp_1.dll
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\bin\Debug\netcoreapp3.1\Network_Tcp_1.pdb
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\obj\Debug\netcoreapp3.1\Network_Tcp_1.csprojAssemblyReference.cache
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\obj\Debug\netcoreapp3.1\Network_Tcp_1.csproj.CoreCompileInputs.cache
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\obj\Debug\netcoreapp3.1\Network_Tcp_1.AssemblyInfoInputs.cache
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\obj\Debug\netcoreapp3.1\Network_Tcp_1.AssemblyInfo.cs
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\obj\Debug\netcoreapp3.1\Network_Tcp_1.dll
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\obj\Debug\netcoreapp3.1\Network_Tcp_1.pdb
+C:\Users\Vardan\source\repos\Network_Tcp_1\Network_Tcp_1\obj\Debug\netcoreapp3.1\Network_Tcp_1.genruntimeconfig.cache
